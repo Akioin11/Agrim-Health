@@ -1,5 +1,4 @@
-```md
-# Agrim - Your AI Health Companion
+## Agrim - Your AI Health Companion
 
 Agrim is your personal AI-powered health assistant designed to make healthcare simple and actionable. Using cutting-edge **RAG (Retrieval-Augmented Generation) AI**, Agrim can:
 
@@ -8,7 +7,6 @@ Agrim is your personal AI-powered health assistant designed to make healthcare s
 - Provide real-world, actionable health advice  
 - Book appointments with healthcare professionals
 
----
 
 ## Features
 
@@ -114,8 +112,3 @@ Contributions are welcome! Follow these steps to get involved:
 ## License
 
 MIT License. Feel free to use and contribute.
-```
-
----
-
-Want me to also help you draft a `power-manager.desktop` or `.env.example` for this project too?

@@ -45,7 +45,7 @@ Agrim is your personal AI-powered health assistant designed to make healthcare s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/agrim-health-app.git
+git clone https://github.com/Akioin11/agrimApp
 cd agrim-health-app
 ```
 
@@ -77,14 +77,6 @@ flutter run
 2. AI analyzes it using RAG to fetch medically sound insights  
 3. Chat with Agrim to understand your health data  
 4. Take recommended actions or book appointments
-
----
-
-## Example Use Case
-
-You upload a blood test report.  
-Agrim responds:  
-"Your cholesterol levels are above the normal range. Consider reducing fatty foods and increasing physical activity. Would you like to book a cardiologist appointment?"
 
 ---
 

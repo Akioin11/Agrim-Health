@@ -137,7 +137,7 @@ class MyStatsPage extends StatelessWidget {
                   ),
                   StatCard(
                     title: 'Medication\nToday',
-                    value: 'BP',
+                    value: 'Amlopr..  ',
                     suffix: '- 9AM',
                     showArrow: true,
                     color: colorScheme.primary,
@@ -151,7 +151,7 @@ class MyStatsPage extends StatelessWidget {
                   StatCard(
                     title: 'Heart\nRate',
                     value: '93',
-                    suffix: 'BPM',
+                    suffix: ' BPM',
                     showArrow: true,
                     color: colorScheme.primary,
                   ),
@@ -624,7 +624,7 @@ class ProfilePage extends StatelessWidget {
                   ),
                   const SizedBox(height: 8),
                   Text(
-                    'Hi, I\'m Akshat Sharma, a student at VIT Bhopal, currently managing my health while balancing academics. I have been diagnosed with Type 2 Diabetes and an irregular heart pattern, which means I have to be mindful of my lifestyle and health choices.',
+                    'Akshat Sharma, a student at VIT Bhopal, currently managing my health while balancing academics. I have been diagnosed with Type 2 Diabetes and an irregular heart pattern, which means I have to be mindful of my lifestyle and health choices.',
                     style: TextStyle(
                       color: colorScheme.onSurfaceVariant,
                       height: 1.5,

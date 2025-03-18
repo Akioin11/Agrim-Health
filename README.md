@@ -1,7 +1,3 @@
-Got it! Here's the same README, cleaned up and professional, no emojis:
-
----
-
 ```md
 # Agrim - Your AI Health Companion
 
@@ -44,7 +40,7 @@ Agrim is your personal AI-powered health assistant designed to make healthcare s
 - **Backend** powered by Vertex AI and secure APIs  
 - **Cloud Storage** for encrypted document uploads
 
----
+
 
 ## Getting Started
 

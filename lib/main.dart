@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Agrim',
+      title: 'AgrimApp',
       theme: ThemeData(
         useMaterial3: true,
         colorSchemeSeed: Colors.blue, // Or your preferred base color
